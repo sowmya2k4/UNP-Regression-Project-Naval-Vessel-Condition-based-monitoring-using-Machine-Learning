@@ -3,4 +3,4 @@ Hi,this is our college group project developed on Naval vessal's dataset.This pr
 
 
 #Here is the link for the presentation
-https://1drv.ms/p/s!AoyhBrToQv_6jCmVv3yXcYS8Ej-J
+[https://1drv.ms/p/s!AoyhBrToQv_6jCmVv3yXcYS8Ej-J](https://docs.google.com/presentation/d/1F4djPCMoL2eZddnproPr9syUgP0EZ87k/edit?usp=sharing&ouid=108716214479124452023&rtpof=true&sd=true)https://docs.google.com/presentation/d/1F4djPCMoL2eZddnproPr9syUgP0EZ87k/edit?usp=sharing&ouid=108716214479124452023&rtpof=true&sd=true
